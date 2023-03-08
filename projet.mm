@@ -1,6 +1,6 @@
 <map version="freeplane 1.9.13">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
-<node TEXT="Création d&apos;entreprise" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1678271012234"><hook NAME="MapStyle" background="#2e3440">
+<node TEXT="Création d&apos;entreprise" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1678271767216"><hook NAME="MapStyle" background="#2e3440" zoom="0.77">
     <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" associatedTemplateLocation="template:/dark_nord_template.mm"/>
 
 <map_styles>
@@ -83,18 +83,25 @@
 <node TEXT="Isolation" ID="ID_1255550528" CREATED="1678271124594" MODIFIED="1678271127603"/>
 <node TEXT="Proximité gare-aéroport" ID="ID_643623631" CREATED="1678271128126" MODIFIED="1678271147137"/>
 </node>
-<node TEXT="Pressing" ID="ID_1333520274" CREATED="1678271051062" MODIFIED="1678271072253"/>
-</node>
-<node TEXT="Résidence d&apos;artiste" POSITION="left" ID="ID_57638689" CREATED="1678271020663" MODIFIED="1678271185700"/>
-<node TEXT="Restauration-Bar" POSITION="right" ID="ID_563930152" CREATED="1678271039594" MODIFIED="1678271109710">
-<node TEXT="Produits locaux" ID="ID_1060156876" CREATED="1678271042582" MODIFIED="1678271093116"/>
-<node TEXT="Cuisine variée" ID="ID_1850414460" CREATED="1678271093542" MODIFIED="1678271096987"/>
-</node>
-<node TEXT="Transport" POSITION="left" ID="ID_636696901" CREATED="1678271076294" MODIFIED="1678271080448">
+<node TEXT="Transport" ID="ID_636696901" CREATED="1678271076294" MODIFIED="1678271080448">
 <node TEXT="Navettes vers gare-aéroport" ID="ID_121554956" CREATED="1678271160323" MODIFIED="1678271167201"/>
 <node TEXT="Proximité piste cyclable" ID="ID_1862864727" CREATED="1678271168180" MODIFIED="1678271174073"/>
 </node>
+<node TEXT="Pressing" ID="ID_1333520274" CREATED="1678271051062" MODIFIED="1678271072253"/>
+</node>
+<node TEXT="Résidence d&apos;artiste" POSITION="left" ID="ID_57638689" CREATED="1678271020663" MODIFIED="1678271185700">
+<node TEXT="Studio d&apos;enregistrement" ID="ID_407263443" CREATED="1678271690902" MODIFIED="1678271697162"/>
+<node TEXT="Espace scénique" ID="ID_1716834375" CREATED="1678271697525" MODIFIED="1678273181840">
+<arrowlink DESTINATION="ID_1856652329"/>
+</node>
+<node TEXT="Salle de répétition" ID="ID_649459887" CREATED="1678271676421" MODIFIED="1678271683582"/>
+</node>
+<node TEXT="Restauration-Bar" POSITION="right" ID="ID_563930152" CREATED="1678271039594" MODIFIED="1678273219185">
+<arrowlink DESTINATION="ID_1856652329" STARTINCLINATION="88.5 pt;162.75 pt;" ENDINCLINATION="27.75 pt;90.75 pt;"/>
+<node TEXT="Produits locaux" ID="ID_1060156876" CREATED="1678271042582" MODIFIED="1678271093116"/>
+<node TEXT="Cuisine variée" ID="ID_1850414460" CREATED="1678271093542" MODIFIED="1678271096987"/>
+</node>
 <node TEXT="Activités" POSITION="right" ID="ID_1520855547" CREATED="1678271085532" MODIFIED="1678271088843"/>
-<node TEXT="Lieu de spectacle" POSITION="left" ID="ID_1856652329" CREATED="1678271223288" MODIFIED="1678271227740"/>
+<node TEXT="Lieu de spectacle" POSITION="left" ID="ID_1856652329" CREATED="1678271223288" MODIFIED="1678271960160"/>
 </node>
 </map>
