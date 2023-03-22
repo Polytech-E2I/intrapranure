@@ -1,2 +1,32 @@
 = Business Plan
 
+== Projets similaires existants
+
+* https://www.murmuredeslauzes.fr[Murmure des Lauzes]
+** Correspond exactement au projet sur le papier, mais quelques détails à améliorer
+* https://www.studio-rimshot.com[Studio Rimshot]
+** Pas vraiment un gîte, mais une idée globale similaire
+
+== Clientèle cible
+
+* Vacanciers "classiques"
+* Séminaires
+* Troupes de spectacle vivant
+** Groupes de musiques actuelles
+** Groupes de musiques électroniques
+** Troupes de théâtre
+** Troupes de danse
+* Ateliers autour du spectacle vivant
+** Stages d'improvisation
+** Masterclass
+* Indirectement :
+** Sociétés de production
+** Bookers
+
+
+== TODO
+
+* Lister questions à poser à des artistes / bookers
+=> Arturia
+
+Film "En corps" à voir pour dire si ça correspond ou pas
