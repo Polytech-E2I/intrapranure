@@ -23,10 +23,66 @@
 ** Sociétés de production
 ** Bookers
 
+== Questionnaire d'étude de marché
 
-== TODO
+* Travaillez-vous dans le spectacle vivant ?
+* Si oui, quel(s) métier(s) ?
+** Musicien
+** Danseur
+** Comédien
+** Metteur en scène
+** Ingénieur du son
+** Ingénieur lumière
+** Machiniste
+** Accessoiriste
+** Manager/Booker
+** Gestionnaire de production
+** Roadie
+** Professeur de musique
+** Professeur de théâtre
+** Professeur de danse
+** Autre (précisez) :
+* Vous produisez-vous en tournée ?
 
-* Lister questions à poser à des artistes / bookers
-=> Arturia
+Le projet est un lieu de vie artistique privatif, situé dans un lieu calme mais
+relativement accessible. Il s'agirait d'un service complet clé-en-main de
+transport, hébergement et restauration pouvant accueillir une vingtaine de
+personnes. Les locaux seraient également équipés pour créer ou répéter un
+spectacle, tenir des ateliers de théâtre, enregistrer de la musique etc. Cela
+offrirait ainsi un cadre idéal à des artistes et techniciens pour préparer une
+tournée ou enregistrer un album, par exemple.
 
-Film "En corps" à voir pour dire si ça correspond ou pas
+* Seriez-vous intéressé·e pour utiliser de tels locaux ?
+* Si oui, pour quel(s) type(s) de projet ?
+** Concert
+** Enregistrement d'album
+** Spectacle de théâtre
+** Spectacle de danse
+** Masterclass de musique
+** Masterclass de théâtre
+** Masterclass de danse
+** Autre (précisez) :
+* De combien de personnes de personnes auriez-vous besoin sur place ?
+* Que valoriseriez-vous le plus dans la liste suivante ?
+** Transport
+** Hébergement
+** Restauration
+** Equipements scéniques
+** Instruments de musique sur place
+** Studio d'enregistrement
+* Quel serait l'emplacement idéal ?
+** Dans une grande ville
+** En périphérie d'une grande ville
+** Dans un village
+** Isolé
+* Quelle serait la ou les région(s) idéale(s) ?
+** Région parisienne
+** Côte méditérannéenne
+** Région lyonnaise
+** Pays Basque
+** Région bordelaise
+** Alpes
+** Bourgogne
+** Bretagne-Pays de la Loire
+** Grand Est
+** Autre (précisez) :
