@@ -27,20 +27,20 @@
 
 * Travaillez-vous dans le spectacle vivant ?
 * Si oui, quel(s) métier(s) ?
-** Musicien
-** Danseur
-** Comédien
-** Metteur en scène
-** Ingénieur du son
-** Ingénieur lumière
+** Musicien·ne
+** Danseur·euse
+** Comédien·ne
+** Metteur·euse en scène
+** Ingénieur·e du son
+** Ingénieur·e lumière
 ** Machiniste
 ** Accessoiriste
 ** Manager/Booker
 ** Gestionnaire de production
 ** Roadie
-** Professeur de musique
-** Professeur de théâtre
-** Professeur de danse
+** Professeur·e de musique
+** Professeur·e de théâtre
+** Professeur·e de danse
 ** Autre (précisez) :
 * Vous produisez-vous en tournée ?
 
